@@ -1,5 +1,3 @@
-# reinforcement_learning
-
 **Learning Goals**</br>
 •	Learn different deep RL techniques in Pytorch.
 
